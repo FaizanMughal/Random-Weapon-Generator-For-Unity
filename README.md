@@ -5,6 +5,8 @@ a __Borderlands 2__ inspired, part-based random weapon generator for Unity Engin
 ## Features
 
 - No external DLLs, just good ol' C# scripts!
+- Well-written, modern, and optimized C# code!
+- Extremely customizable!
 - Generates 32x32 grids of random weapons in less than 1 second!
 - Comes with an easy to use editor tool.
 - Can generate random weapons during runtime!
@@ -25,4 +27,4 @@ Since this project doesn't rely on any other plugin, it works with any Unity ver
 
 ## Support Me!
 
-I'm a 16-year-old student and maintiaing projects like this takes time and resources! So, if you would like to help me out you can contribute to this project by making updates and/or fixes. <sub>(or you can support me with a monthly donation [here on Patreon!](https://www.patreon.com/winterboltgames))</sub>
+I'm a 17-year-old student and maintiaing projects like this takes time and resources! So, if you would like to help me out you can contribute to this project by making updates and/or fixes. <sub>(or you can support me with a monthly donation [here on Patreon!](https://www.patreon.com/winterboltgames))</sub>
